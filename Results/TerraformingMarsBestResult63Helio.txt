@@ -1,0 +1,69 @@
+Turn 1
+TR:14 Money:31 Plants:0 Heat:0 HeatProd:3|Build Powerplant
+TR:14 Money:20 Plants:0 Heat:0 HeatProd:3|Build Powerplant
+TR:15 Money:6 Plants:0 Heat:0 HeatProd:3|Asteroid
+Turn 2
+TR:15 Money:21 Plants:0 Heat:3 HeatProd:3
+TR:16 Money:7 Plants:0 Heat:3 HeatProd:3|Asteroid
+Turn 3
+TR:16 Money:23 Plants:0 Heat:8 HeatProd:3
+TR:17 Money:5 Plants:2 Heat:8 HeatProd:3|Place ocean
+TR:18 Money:5 Plants:2 Heat:0 HeatProd:4|Convert heat to temperature
+Turn 4
+TR:18 Money:23 Plants:2 Heat:6 HeatProd:4
+TR:19 Money:9 Plants:2 Heat:6 HeatProd:4|Asteroid
+Turn 5
+TR:19 Money:28 Plants:2 Heat:12 HeatProd:4
+TR:20 Money:5 Plants:4 Heat:12 HeatProd:4|Place greenery
+TR:21 Money:5 Plants:4 Heat:4 HeatProd:5|Convert heat to temperature
+Turn 6
+TR:21 Money:26 Plants:4 Heat:11 HeatProd:5
+TR:22 Money:8 Plants:6 Heat:11 HeatProd:5|Place ocean
+TR:23 Money:8 Plants:6 Heat:3 HeatProd:5|Convert heat to temperature
+Turn 7
+TR:23 Money:31 Plants:6 Heat:10 HeatProd:5
+TR:24 Money:8 Plants:8 Heat:10 HeatProd:5|Place greenery
+TR:25 Money:8 Plants:8 Heat:2 HeatProd:5|Convert heat to temperature
+TR:26 Money:8 Plants:2 Heat:2 HeatProd:5|Convert plants to greenery
+Turn 8
+TR:26 Money:34 Plants:2 Heat:9 HeatProd:5
+TR:27 Money:11 Plants:3 Heat:9 HeatProd:5|Place greenery
+TR:27 Money:0 Plants:3 Heat:9 HeatProd:5|Build Powerplant
+TR:28 Money:0 Plants:3 Heat:1 HeatProd:5|Convert heat to temperature
+Turn 9
+TR:28 Money:28 Plants:3 Heat:8 HeatProd:5
+TR:29 Money:7 Plants:4 Heat:8 HeatProd:5|Place greenery
+TR:30 Money:7 Plants:4 Heat:0 HeatProd:5|Convert heat to temperature
+Turn 10
+TR:30 Money:37 Plants:4 Heat:8 HeatProd:5
+TR:31 Money:23 Plants:4 Heat:8 HeatProd:5|Asteroid
+TR:32 Money:23 Plants:4 Heat:0 HeatProd:5|Convert heat to temperature
+TR:33 Money:9 Plants:4 Heat:0 HeatProd:5|Asteroid
+Turn 11
+TR:33 Money:42 Plants:4 Heat:8 HeatProd:5
+TR:34 Money:24 Plants:6 Heat:8 HeatProd:5|Place ocean
+TR:35 Money:5 Plants:7 Heat:8 HeatProd:5|Place greenery
+TR:36 Money:5 Plants:7 Heat:0 HeatProd:5|Convert heat to temperature
+Turn 12
+TR:36 Money:41 Plants:7 Heat:8 HeatProd:5
+TR:37 Money:22 Plants:9 Heat:8 HeatProd:5|Place greenery
+TR:38 Money:8 Plants:9 Heat:8 HeatProd:5|Asteroid
+TR:41 Money:10 Plants:4 Heat:8 HeatProd:5|Convert plants to greenery
+TR:42 Money:10 Plants:4 Heat:0 HeatProd:5|Convert heat to temperature
+Turn 13
+TR:42 Money:52 Plants:4 Heat:8 HeatProd:5
+TR:43 Money:29 Plants:6 Heat:8 HeatProd:5|Place greenery
+TR:44 Money:8 Plants:8 Heat:8 HeatProd:5|Place greenery
+TR:45 Money:10 Plants:2 Heat:8 HeatProd:5|Convert plants to greenery
+TR:46 Money:10 Plants:2 Heat:0 HeatProd:5|Convert heat to temperature
+Turn 14
+TR:46 Money:56 Plants:2 Heat:8 HeatProd:5
+TR:47 Money:42 Plants:2 Heat:8 HeatProd:5|Asteroid
+TR:48 Money:21 Plants:3 Heat:8 HeatProd:5|Place greenery
+TR:49 Money:3 Plants:4 Heat:8 HeatProd:5|Place ocean
+TR:50 Money:3 Plants:4 Heat:0 HeatProd:5|Convert heat to temperature
+Turn 15
+TR:50 Money:53 Plants:4 Heat:8 HeatProd:5
+Ox: 12 Oceans: 5 Temp: 8
+63
+Ox: 12 Oceans: 5 Temp: 8
