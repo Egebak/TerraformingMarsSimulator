@@ -1,0 +1,18 @@
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe.config
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.csprojResolveAssemblyReference.cache
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.pdb
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.exe
+C:\Users\teg\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.pdb
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe.config
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.pdb
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.csprojResolveAssemblyReference.cache
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.exe
+C:\Users\illyr\Dropbox\Documents\Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.pdb
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe.config
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.exe
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\bin\Debug\TerraformingMars.pdb
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.csprojResolveAssemblyReference.cache
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.exe
+C:\MyDocuments\Projekter\Finished Projects\TerraformingMars\TerraformingMars\obj\Debug\TerraformingMars.pdb
